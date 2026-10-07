@@ -1,6 +1,6 @@
 # Práctica 1: Aspiradora autónoma (Basic Vacuum Cleaner)
 
-Esta práctica pertenece a la plataforma [Robotics Academy](https://jderobot.github.io/RoboticsAcademy/exercises/MobileRobots/vacuum_cleaner) de JdeRobot. Consiste en programar el comportamiento de un robot aspiradora para que limpie la mayor superficie posible de una vivienda simulada, sin conocer el mapa de antemano y sin una estrategia de cobertura predefinida.
+Esta es la primera práctica de Robótica Móvil. Consiste en programar el comportamiento de un robot aspiradora para que limpie la mayor superficie posible de una vivienda simulada, sin conocer el mapa de antemano y sin una estrategia de cobertura predefinida.
 
 El reto principal es que el robot debe decidir por sí mismo cómo moverse, evitar obstáculos y no quedarse atascado, usando solo la información de sus sensores.
 
