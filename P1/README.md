@@ -10,7 +10,7 @@ El reto principal es que el robot debe decidir por sí mismo cómo moverse, evit
 
 ### Intento 1: Movimiento en espiral
 
-📹 [P1_espiral1_robotica.mp4](P1_espiral1_robotica.mp4)
+ [P1_espiral1_robotica.mp4](P1_espiral1_robotica.mp4)
 
 La primera estrategia fue una espiral, con la idea de barrer zonas de forma progresiva desde un punto.
 
@@ -20,7 +20,7 @@ La primera estrategia fue una espiral, con la idea de barrer zonas de forma prog
 
 ### Intento 2: Espiral con sentido de giro fijo
 
-📹 [P1_espiral_p2_v2.mp4](P1_espiral_p2_v2.mp4)
+ [P1_espiral_p2_v2.mp4](P1_espiral_p2_v2.mp4)
 
 En esta versión eliminé la aleatoriedad en el sentido de rotación. El robot pasó a girar siempre hacia la izquierda, con una cantidad fija de movimiento.
 
@@ -30,7 +30,7 @@ En esta versión eliminé la aleatoriedad en el sentido de rotación. El robot p
 
 ### Intento 3: Aleatoriedad total
 
-📹 [p1_gemarcos_aspiradora.mp4](p1_gemarcos_aspiradora.mp4)
+ [p1_gemarcos_aspiradora.mp4](p1_gemarcos_aspiradora.mp4)
 
 El cambio definitivo fue aleatorizar todos los valores del movimiento, no solo el sentido de giro.
 
